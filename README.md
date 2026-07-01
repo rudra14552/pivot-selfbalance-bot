@@ -8,7 +8,11 @@ Pivot is a two-wheeled, stepper-driven self-balancing robot built around an Ardu
 ## Demo
 
 
-https://github.com/user-attachments/assets/be00bbf2-943f-4b4a-8d4e-f6f6d5624bb6
+
+
+https://github.com/user-attachments/assets/883bca5a-c841-4147-affb-e1de71e5726a
+
+
 
 
 ---
