@@ -127,3 +127,11 @@ Once the bot is lifted back within ±30° of the setpoint, it exits the fallen s
 - Stepper driving is done via manual `delayMicroseconds()` pulsing rather than a timer/interrupt-based stepper library, so Bluetooth/serial reads share loop time with motor pulses.
 - No physical kill switch — falls are handled purely in software via the tilt cutoff.
 - Ki/Kd default to 0; the control loop currently runs closer to P-only until tuned per-build.
+
+---
+
+## License
+
+MIT — free to use, modify, and share. Attribution appreciated.
+
+---
